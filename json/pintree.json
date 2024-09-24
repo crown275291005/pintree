@@ -1,1 +1,646 @@
-
+[
+  {
+    "type": "folder",
+    "addDate": 1701739228024,
+    "title": "平安期货运维常用网址导航",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1707351871188,
+        "title": "复核巡检",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1707351936071,
+            "title": "金仕达CRM-10.17.200.19",
+            "icon": "https://logo.clearbit.com/10.17.200.19",
+            "url": "http://10.17.200.19:8087/ks/"
+          },
+          {
+            "type": "link",
+            "addDate": 1709036358395,
+            "title": "飞马异构运维平台-10.17.200.114",
+            "icon": "https://logo.clearbit.com/10.17.200.114",
+            "url": "http://10.17.200.114:10600/#/login?redirect=%2Fgeneraloperation%2Fdailyoperation"
+          },
+          {
+            "type": "link",
+            "addDate": 1672227783000,
+            "title": "平安汇研-10.17.1.251",
+            "icon": "https://logo.clearbit.com/10.17.1.251",
+            "url": "http://10.17.1.251:8081/portal/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1678108850000,
+            "title": "atp中继监控-172.19.3.121",
+            "icon": "https://logo.clearbit.com/172.19.3.121",
+            "url": "http://172.19.3.121:8110/nagios/"
+          },
+          {
+            "type": "link",
+            "addDate": 1651632479000,
+            "title": "同花顺网关监控 - Grafana-172.28.23.12",
+            "icon": "https://logo.clearbit.com/172.28.23.12",
+            "url": "http://172.28.23.12:8080/d/k6lmKD9Gk/qi-huo-hou-tai-fu-wu-jin-cheng-zhuang-tai?orgId=1&refresh=10s"
+          },
+          {
+            "type": "link",
+            "addDate": 1612489422000,
+            "title": "观澜超融合-10.17.198.100",
+            "icon": "https://logo.clearbit.com/10.17.198.100",
+            "url": "https://10.17.198.100/login#/mod-storage/index?tab=overview&menu="
+          },
+          {
+            "type": "link",
+            "addDate": 1716276518353,
+            "title": "观澜超融合新-10.17.186.100",
+            "icon": "https://logo.clearbit.com/10.17.186.100",
+            "url": "https://10.17.186.100/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1624973569000,
+            "title": "联通超融合-172.28.23.100",
+            "icon": "https://logo.clearbit.com/172.28.23.100",
+            "url": "https://172.28.23.100/login"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1707351279875,
+        "title": "虚机管理",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1644462612000,
+            "title": "客户托管01-172.19.1.154",
+            "icon": "https://logo.clearbit.com/172.19.1.154",
+            "url": "https://172.19.1.154/ui/#/host/vms"
+          },
+          {
+            "type": "link",
+            "addDate": 1644462649000,
+            "title": "客户托管02_172.19.1.156",
+            "icon": "https://logo.clearbit.com/172.19.1.156",
+            "url": "https://172.19.1.156/ui/#/host"
+          },
+          {
+            "type": "link",
+            "addDate": 1644462660000,
+            "title": "客户托管03_172.19.1.200",
+            "icon": "https://logo.clearbit.com/172.19.1.200",
+            "url": "https://172.19.1.200/ui/#/host"
+          },
+          {
+            "type": "link",
+            "addDate": 1644462681000,
+            "title": "客户托管04_172.19.1.51",
+            "icon": "https://logo.clearbit.com/172.19.1.51",
+            "url": "https://172.19.1.51/ui/#/host"
+          },
+          {
+            "type": "link",
+            "addDate": 1644462703000,
+            "title": "客户托管05_172.19.1.87",
+            "icon": "https://logo.clearbit.com/172.19.1.87",
+            "url": "https://172.19.1.87/ui/#/host"
+          },
+          {
+            "type": "link",
+            "addDate": 1701915096649,
+            "title": "新入职运维测试环境-10.20.13.10-ESXi",
+            "icon": "https://logo.clearbit.com/10.20.13.10",
+            "url": "https://10.20.13.10/ui/#/host/vms/1"
+          },
+          {
+            "type": "link",
+            "addDate": 1608518693000,
+            "title": "飞马区虚拟机 – 172.19.1.154-VMware ESXi",
+            "icon": "https://logo.clearbit.com/172.19.1.154",
+            "url": "https://172.19.1.154/ui/#/host/vms"
+          },
+          {
+            "type": "link",
+            "addDate": 1702889934346,
+            "title": "荣超10.17.1.186 ESXi",
+            "icon": "https://logo.clearbit.com/10.17.1.186",
+            "url": "https://10.17.1.186/ui/#/host"
+          },
+          {
+            "type": "link",
+            "addDate": 1727145689526,
+            "title": "荣超10.17.1.185 ESXi",
+            "icon": "https://logo.clearbit.com/10.17.1.185",
+            "url": "https://10.17.1.185/"
+          },
+          {
+            "type": "link",
+            "addDate": 1710480962777,
+            "title": "荣超10.17.4.41 ESXI",
+            "icon": "https://logo.clearbit.com/10.17.4.41",
+            "url": "https://10.17.4.41/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727145880532,
+            "title": "荣超10.17.8.88 ESXi",
+            "icon": "https://logo.clearbit.com/10.17.8.88",
+            "url": "https://10.17.8.88/ui/#/host"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1707351279876,
+        "title": "应用系统",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1569232691000,
+            "title": "CTP2-生产库-172.28.13.5",
+            "icon": "https://logo.clearbit.com/172.28.13.5",
+            "url": "http://172.28.13.5:8080/java/dorado.view.frame.login.Login.d;jsessionid=148E1566A638F0052655C2BDED37123A"
+          },
+          {
+            "type": "link",
+            "addDate": 1615346068000,
+            "title": "CTP2-历史库-172.28.13.56",
+            "icon": "https://logo.clearbit.com/172.28.13.56",
+            "url": "https://172.28.13.56:8443/java/dorado.view.frame.Main.d"
+          },
+          {
+            "type": "link",
+            "addDate": 1658500690000,
+            "title": "CAP-生产环境-172.28.23.54",
+            "icon": "https://logo.clearbit.com/172.28.23.54",
+            "url": "https://172.28.23.54/index.html#/login?redirect=%2Fsystemsetting%2FaccountParam"
+          },
+          {
+            "type": "link",
+            "addDate": 1657583924000,
+            "title": "CAP-测试-10.17.198.174",
+            "icon": "https://logo.clearbit.com/10.17.198.174",
+            "url": "https://10.17.198.174/index.html#/login?redirect=%2Fhome"
+          },
+          {
+            "type": "link",
+            "addDate": 1700786717000,
+            "title": "启明星V10-交易-10.129.13.1",
+            "icon": "https://logo.clearbit.com/10.129.13.1",
+            "url": "http://10.129.13.1:8080/home/FeeParam"
+          },
+          {
+            "type": "link",
+            "addDate": 1724144937302,
+            "title": "启明星V10-结算柜台-10.17.186.129",
+            "icon": "https://logo.clearbit.com/10.17.186.129",
+            "url": "http://10.17.186.129:8080/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1684822668000,
+            "title": "唐银-易达管理系统-172.22.1.65",
+            "icon": "https://logo.clearbit.com/172.22.1.65",
+            "url": "http://172.22.1.65:8080/user/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1682039753000,
+            "title": "唐银易达-投资者帐户管理-172.22.1.91",
+            "icon": "https://logo.clearbit.com/172.22.1.91",
+            "url": "http://172.22.1.91:8080/admin/cffex?s="
+          },
+          {
+            "type": "link",
+            "addDate": 1662595551000,
+            "title": "飞马条件单-172.28.23.86",
+            "icon": "https://logo.clearbit.com/172.28.23.86",
+            "url": "http://172.28.23.86:58092/trade-crm-front/#/condition"
+          },
+          {
+            "type": "link",
+            "addDate": 1638375219000,
+            "title": "同花顺条件单-172.28.23.12",
+            "icon": "https://logo.clearbit.com/172.28.23.12",
+            "url": "http://172.28.23.12:8081/#/home/query"
+          },
+          {
+            "type": "link",
+            "addDate": 1606696093000,
+            "title": "融航-172.28.13.82",
+            "icon": "https://logo.clearbit.com/172.28.13.82",
+            "url": "https://172.28.13.82:10005/"
+          },
+          {
+            "type": "link",
+            "addDate": 1677934196000,
+            "title": "atp管理-172.19.3.121",
+            "icon": "https://logo.clearbit.com/172.19.3.121",
+            "url": "http://172.19.3.121:9200/"
+          },
+          {
+            "type": "link",
+            "addDate": 1715126687660,
+            "title": "博易模拟交易柜台-10.17.194.58",
+            "icon": "https://logo.clearbit.com/10.17.194.58",
+            "url": "http://10.17.194.58:40080/#/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1647670644000,
+            "title": "集中作业平台-10.17.199.191",
+            "icon": "https://logo.clearbit.com/10.17.199.191",
+            "url": "http://10.17.199.191/ngs/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1655729194000,
+            "title": "Compass画像平台-10.17.198.61",
+            "icon": "https://logo.clearbit.com/10.17.198.61",
+            "url": "http://10.17.198.61:37799/webroot/decision"
+          },
+          {
+            "type": "link",
+            "addDate": 1624349319000,
+            "title": "掌厅统一后台管理系统-10.17.198.72",
+            "icon": "https://logo.clearbit.com/10.17.198.72",
+            "url": "http://10.17.198.72:8112/pbsso-server/static/html/login.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1624349286000,
+            "title": "掌厅双录后台管理中心-10.17.198.72",
+            "icon": "https://logo.clearbit.com/10.17.198.72",
+            "url": "http://10.17.198.72:8112/Video/"
+          },
+          {
+            "type": "link",
+            "addDate": 1627005120000,
+            "title": "同花顺智能投资助理标准版运营平台-10.17.198.91",
+            "icon": "https://logo.clearbit.com/10.17.198.91",
+            "url": "http://10.17.198.91:40443/#/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1681898668000,
+            "title": "同花顺智能客服系统对话页-10.17.198.91",
+            "icon": "https://logo.clearbit.com/10.17.198.91",
+            "url": "http://10.17.198.91:40080/mgmt/login?companyCode=qihuo_pingan"
+          },
+          {
+            "type": "link",
+            "addDate": 1653897719000,
+            "title": "智能外呼运营平台-10.17.198.154",
+            "icon": "https://logo.clearbit.com/10.17.198.154",
+            "url": "http://10.17.198.154:11000/cms/index.html#/home/scene/scene_002/3"
+          },
+          {
+            "type": "link",
+            "addDate": 1667433903000,
+            "title": "智能外呼运营平台-10.17.198.155",
+            "icon": "https://logo.clearbit.com/10.17.198.155",
+            "url": "http://10.17.198.155:11000/cms/index.html#/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1685771218000,
+            "title": "用户体系统管控台-10.17.198.203",
+            "icon": "https://logo.clearbit.com/10.17.198.203",
+            "url": "http://10.17.198.203:8088/xone-ucp/#/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1695697493000,
+            "title": "大数据-10.17.199.124:7180",
+            "icon": "https://logo.clearbit.com/10.17.199.124",
+            "url": "http://10.17.199.124:7180/cmf/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1701667333000,
+            "title": "企微会话任务调度中心-10.17.198.147",
+            "icon": "https://logo.clearbit.com/10.17.198.147",
+            "url": "http://10.17.198.147:28080/xxl-job-admin/"
+          },
+          {
+            "type": "link",
+            "addDate": 1701667418000,
+            "title": "企微会话后台登录-10.17.4.52",
+            "icon": "https://logo.clearbit.com/10.17.4.52",
+            "url": "http://10.17.4.52:8002/iservice-admin/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1706835538346,
+            "title": "CTP脱敏系统-172.28.23.141",
+            "icon": "https://logo.clearbit.com/172.28.23.141",
+            "url": "https://172.28.23.141:8443/dshield/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1671703590000,
+            "title": "极笃-172.28.13.61",
+            "icon": "https://logo.clearbit.com/172.28.13.61",
+            "url": "http://172.28.13.61/accounts/login/?next=/operations/dashboard/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1707351279877,
+        "title": "监控系统",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1687780032000,
+            "title": "荣超-zabbix-10.17.1.244",
+            "icon": "https://logo.clearbit.com/10.17.1.244",
+            "url": "http://10.17.1.244/zabbix/zabbix.php?action=problem.view&ddreset=1"
+          },
+          {
+            "type": "link",
+            "addDate": 1672993059000,
+            "title": "荣超Grafana-10.17.1.244",
+            "icon": "https://logo.clearbit.com/10.17.1.244",
+            "url": "http://10.17.1.244:3000/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1700469715000,
+            "title": "fmonitor监控客户端-172.28.23.97",
+            "icon": "https://logo.clearbit.com/172.28.23.97",
+            "url": "http://172.28.23.97:8082/"
+          },
+          {
+            "type": "link",
+            "addDate": 1700103583000,
+            "title": "fmonitor监控配置管理-172.28.23.97",
+            "icon": "https://logo.clearbit.com/172.28.23.97",
+            "url": "http://172.28.23.97:8080/#/main/authorization"
+          },
+          {
+            "type": "link",
+            "addDate": 1700103309000,
+            "title": "fmonitor监控探针运维专用-172.28.23.97",
+            "icon": "https://logo.clearbit.com/172.28.23.97",
+            "url": "http://172.28.23.97/operations/dashboard/"
+          },
+          {
+            "type": "link",
+            "addDate": 1643294918000,
+            "title": "恒生see监控管理控制台-10.17.198.121",
+            "icon": "https://logo.clearbit.com/10.17.198.121",
+            "url": "http://10.17.198.121:8081/acm/"
+          },
+          {
+            "type": "link",
+            "addDate": 1685690064000,
+            "title": "用户体系SEE平台-10.17.198.206",
+            "icon": "https://logo.clearbit.com/10.17.198.206",
+            "url": "http://10.17.198.206:8081/acm/app.htm#/see/winner_dashboard"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1707351279879,
+        "title": "网络安全",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1718865525016,
+            "title": "奇安信网神分析平台-流量分析-10.17.197.51",
+            "icon": "https://logo.clearbit.com/10.17.197.51",
+            "url": "https://10.17.197.51/skyeye/home/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1720072775704,
+            "title": "HFish蜜罐-10.17.1.72",
+            "icon": "https://logo.clearbit.com/10.17.1.72",
+            "url": "https://10.17.1.72:4433/web/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1721608943250,
+            "title": "esxi日志分析-10.17.1.187",
+            "icon": "https://logo.clearbit.com/10.17.1.187",
+            "url": "https://10.17.1.187/home?contextId=user&datePreset=LAST_24_HOURS&viewId=1"
+          },
+          {
+            "type": "link",
+            "addDate": 1721609636704,
+            "title": "青藤云-集团-主机防护-hids.paic.com.cn",
+            "icon": "https://logo.clearbit.com/hids.paic.com.cn",
+            "url": "http://hids.paic.com.cn/next/#/home?view=linux"
+          },
+          {
+            "type": "link",
+            "addDate": 1719304491835,
+            "title": "PA防火墙-10.17.1.51",
+            "icon": "https://logo.clearbit.com/10.17.1.51",
+            "url": "https://10.17.1.51/php/login.php?"
+          },
+          {
+            "type": "link",
+            "addDate": 1718885417882,
+            "title": "天眼流量传感器-10.17.197.52",
+            "icon": "https://logo.clearbit.com/10.17.197.52",
+            "url": "https://10.17.197.52/sensor/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1724836599354,
+            "title": "全流量安全回溯调查系统-NTDS流量分析-10.18.253.21",
+            "icon": "https://logo.clearbit.com/10.18.253.21",
+            "url": "https://10.18.253.21/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1696918392000,
+            "title": "Tenable漏洞扫描-10.17.198.14",
+            "icon": "https://logo.clearbit.com/10.17.198.14",
+            "url": "https://10.17.198.14/"
+          },
+          {
+            "type": "link",
+            "addDate": 1706237415393,
+            "title": "职场视频监控-中后台区-10.243.73.231",
+            "icon": "https://logo.clearbit.com/10.243.73.231",
+            "url": "http://10.243.73.231/"
+          },
+          {
+            "type": "link",
+            "addDate": 1706237460569,
+            "title": "职场视频监控-业务区-10.243.79.121",
+            "icon": "https://logo.clearbit.com/10.243.79.121",
+            "url": "http://10.243.79.121/"
+          },
+          {
+            "type": "link",
+            "addDate": 1678082310000,
+            "title": "门禁系统-百傲瑞达5000-10.17.193.16",
+            "icon": "https://logo.clearbit.com/10.17.193.16",
+            "url": "http://10.17.193.16:8098/bioLogin.do"
+          },
+          {
+            "type": "link",
+            "addDate": 1661233895000,
+            "title": "联通JumpServer堡垒机-172.28.23.94",
+            "icon": "https://logo.clearbit.com/172.28.23.94",
+            "url": "http://172.28.23.94/ui/#/console/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1681982591000,
+            "title": "联软IT安全运维管理系统-主机-10.17.1.174",
+            "icon": "https://logo.clearbit.com/10.17.1.174",
+            "url": "http://10.17.1.174:8088/manager/login.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1681982682000,
+            "title": "联软IT安全运维管理系统-备机-10.17.1.175",
+            "icon": "https://logo.clearbit.com/10.17.1.175",
+            "url": "http://10.17.1.175:8088/manager/login.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1661220197000,
+            "title": "神灯态势感知系统-10.17.197.101",
+            "icon": "https://logo.clearbit.com/10.17.197.101",
+            "url": "http://10.17.197.101:9099/#/login?redirect=%2FhomePage"
+          },
+          {
+            "type": "link",
+            "addDate": 1664236241000,
+            "title": "荣超默安蜜罐-幻阵-10.17.4.100",
+            "icon": "https://logo.clearbit.com/10.17.4.100",
+            "url": "https://10.17.4.100/#/overview"
+          },
+          {
+            "type": "link",
+            "addDate": 1718866817846,
+            "title": "观澜默安蜜罐-幻阵-10.17.186.41",
+            "icon": "https://logo.clearbit.com/10.17.186.41",
+            "url": "https://10.17.186.41/#/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1658882599000,
+            "title": "深信服AC上网行为管理系统-10.17.1.214",
+            "icon": "https://logo.clearbit.com/10.17.1.214",
+            "url": "https://10.17.1.214/login.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1686701729000,
+            "title": "荣超WAF-10.17.1.203",
+            "icon": "https://logo.clearbit.com/10.17.1.203",
+            "url": "https://10.17.1.203/"
+          },
+          {
+            "type": "link",
+            "addDate": 1690459890000,
+            "title": "观澜WAF主-10.18.253.143",
+            "icon": "https://logo.clearbit.com/10.18.253.143",
+            "url": "https://10.18.253.143/"
+          },
+          {
+            "type": "link",
+            "addDate": 1689082528000,
+            "title": "观澜WAF备-10.18.253.144",
+            "icon": "https://logo.clearbit.com/10.18.253.144",
+            "url": "https://10.18.253.144/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721608001178,
+            "title": "联通FW主-172.28.253.12",
+            "icon": "https://logo.clearbit.com/172.28.253.12",
+            "url": "https://172.28.253.12/#homepage"
+          },
+          {
+            "type": "link",
+            "addDate": 1721608085524,
+            "title": "联通FW2主-172.28.253.15",
+            "icon": "https://logo.clearbit.com/172.28.253.15",
+            "url": "https://172.28.253.15/#homepage"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1707351279880,
+        "title": "带外管理",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1692283273000,
+            "title": "易盛证券主机带外idrac-5KQBNY3-10.129.254.103",
+            "icon": "https://logo.clearbit.com/10.129.254.103",
+            "url": "https://10.129.254.103/restgui/start.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1692283283000,
+            "title": "易盛证券主机带外idrac-4KQBNY3-10.129.254.101",
+            "icon": "https://logo.clearbit.com/10.129.254.101",
+            "url": "https://10.129.254.101/restgui/start.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1727143398318,
+            "title": "易盛证券主机带外idrac-B25M0D3-10.129.254.104",
+            "icon": "https://logo.clearbit.com/10.129.254.104",
+            "url": "https://10.129.254.104/restgui/start.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1692283335000,
+            "title": "易盛交易主机带外kvm-10.129.254.1",
+            "icon": "https://logo.clearbit.com/10.129.254.1",
+            "url": "http://10.129.254.1/#login"
+          },
+          {
+            "type": "link",
+            "addDate": 1717034161701,
+            "title": "荣超浪潮服务器带外-10.17.1.11",
+            "icon": "https://logo.clearbit.com/10.17.1.11",
+            "url": "https://10.17.1.11/"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1723526150662,
+        "title": "极笃PaaS运维平台-172.28.23.93",
+        "icon": "https://logo.clearbit.com/172.28.23.93",
+        "url": "http://172.28.23.93:8080/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727072303275,
+        "title": "平期运维-知识库 - Trilium Notes-10.17.1.189",
+        "icon": "https://logo.clearbit.com/10.17.1.189",
+        "url": "http://10.17.1.189:8080/#root/DoxGIfZ86J7w/kNBFPc2Hjdtu?ntxId=7BPhtY"
+      },
+      {
+        "type": "link",
+        "addDate": 1670841284000,
+        "title": "荣超JumpServer堡垒机-10.17.1.13",
+        "icon": "https://logo.clearbit.com/10.17.1.13",
+        "url": "http://10.17.1.13/core/auth/login/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727145611730,
+        "title": "平期运维-SVN-10.17.1.39",
+        "icon": "https://logo.clearbit.com/",
+        "url": "svn://10.17.1.39/OPSDoc/"
+      }
+    ]
+  }
+]
